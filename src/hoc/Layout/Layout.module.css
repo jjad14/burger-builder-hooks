@@ -1,0 +1,19 @@
+.Wrapper {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+.Content {
+    flex: 1 0 auto;
+    margin-top: 72px;
+}
+
+.Footer {
+    width: 100%;
+    background-color: #703B09;
+    color: white;
+    padding: 15px;
+    box-sizing: border-box;
+    text-align: center;
+}

@@ -1,0 +1,23 @@
+.OrderSummary {
+    text-align: center;
+}
+
+.OrderSummary ul {
+    display: inline-block;
+    list-style: none;
+    padding: 0px;
+}
+
+.OrderSummary li {
+    display: table;
+}
+
+.OrderSummary li span {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.OrderSummary ul p {
+    margin: 0px;
+    margin-left: 10px;
+}
